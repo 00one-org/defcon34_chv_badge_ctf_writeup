@@ -58,8 +58,6 @@ The code, analysis workflow, and documentation were created with assistance from
 
 Original code and documentation in this repository are MIT-licensed. Challenge names, product names, event names, and related marks belong to their respective owners. No rights are claimed over badge firmware or organizer-supplied material.
 
-This is structured as a post-event technical writeup. Check any event-specific rules and organizer announcements before publication.
-
 ## License
 
 [MIT License](LICENSE)
