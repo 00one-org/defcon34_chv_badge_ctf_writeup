@@ -52,7 +52,7 @@ Adjust the device path for your host. Review the Cshim frames first with --dry-r
 
 ## Use of AI
 
-AI agent tools assisted with the code, analysis workflow, and documentation. A human reviewed the generated material and exercised the complete solve flow, within the authorized competition environment, on a CTF-version device officially loaned by the organizers at the venue. Errors may remain because this was AI-assisted work validated against a limited setup.
+The code, analysis workflow, and documentation were created with assistance from AI-supported development tools, including AI agents. A human reviewed the generated material and exercised the complete solve flow, within the authorized competition environment, on a CTF-version device officially loaned by the organizers at the venue. Errors may remain because this was AI-assisted work validated against a limited setup.
 
 ## Rights
 

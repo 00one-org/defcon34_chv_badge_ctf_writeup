@@ -1,6 +1,6 @@
 # DEF CON 34 CHV Badge CTF Writeup
 
-> This is a post-event record of solving an actual CTF-version hardware badge—not a public or practice badge—officially loaned by the organizers at the venue and used within the authorized competition environment. The included solvers obtained all three flags on that device. AI agent tools assisted with analysis, code, and documentation; a human reviewed the work and completed all three solves on hardware. Only one unit and setup were tested, so the account is not guaranteed to be 100% complete or correct. Firmware, extracted files, organizer handouts, and raw captures are not included.
+> This is a post-event record of solving an actual CTF-version hardware badge—not a public or practice badge—officially loaned by the organizers at the venue and used within the authorized competition environment. The included solvers obtained all three flags on that device. AI-supported development tools, including AI agents, were used to assist with analysis, coding, and documentation; a human reviewed the work and completed all three solves on hardware. Only one unit and setup were tested, so the account is not guaranteed to be 100% complete or correct. Firmware, extracted files, organizer handouts, and raw captures are not included.
 
 ## Environment and access path
 
