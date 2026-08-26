@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright © 2026 00One, Inc.
+# SPDX-License-Identifier: Apache-2.0
+
 """Minimal CTF Cshim exploit: set the volatile flag gate and read DID F190."""
 
 import argparse

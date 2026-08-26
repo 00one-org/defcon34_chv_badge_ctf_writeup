@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright © 2026 00One, Inc.
+# SPDX-License-Identifier: Apache-2.0
+
 """Solve the real CTF DTC Shuffle over CAN/SLCAN."""
 
 import argparse

@@ -1,3 +1,6 @@
+# Copyright © 2026 00One, Inc.
+# SPDX-License-Identifier: Apache-2.0
+
 """Shared python-can helpers for the three post-event CHV CTF solvers."""
 
 from __future__ import annotations

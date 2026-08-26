@@ -20,7 +20,7 @@ This repository shares technical knowledge and practical lessons obtained while 
 
 Do not use this material maliciously or to access third-party devices without authorization, disrupt services, destroy or obtain data, or perform any other unlawful or harmful activity. Run the code only against systems you own or administer, or systems for which the owner or administrator has given you explicit permission.
 
-The MIT License does not grant authorization to attack third-party systems or to violate applicable laws, terms, or event rules. You are responsible for your own actions.
+The licenses in this repository do not grant authorization to attack third-party systems or to violate applicable laws, terms, or event rules. You are responsible for your own actions.
 
 ## Validation and warning
 
@@ -40,7 +40,7 @@ For SocketCAN, pass an interface such as can0. For the badge's USB CDC/SLCAN int
     git clone https://github.com/car-hacking-village/chv_badgetools.git
     .venv/bin/pip install ./chv_badgetools
 
-That external project is not bundled and is not covered by this repository's MIT License.
+That external project is not bundled and is not covered by this repository's licenses.
 
 ## Examples
 
@@ -54,10 +54,18 @@ Adjust the device path for your host. Review the Cshim frames first with --dry-r
 
 The code, analysis workflow, and documentation were created with assistance from AI-supported development tools, including AI agents. A human reviewed the generated material and exercised the complete solve flow, within the authorized competition environment, on a CTF-version device officially loaned by the organizers at the venue. Errors may remain because this was AI-assisted work validated against a limited setup.
 
+AI assistance does not by itself change the licensing classification below. Third-party materials are not relicensed by this repository.
+
 ## Rights
 
-Original code and documentation in this repository are MIT-licensed. Challenge names, product names, event names, and related marks belong to their respective owners. No rights are claimed over badge firmware or organizer-supplied material.
+Challenge names, product names, event names, and related marks belong to their respective owners. Badge firmware, binaries, screenshots, organizer-supplied material, and other third-party materials are not covered by this repository's licenses unless explicitly stated. Rights remain with their respective owners.
 
 ## License
 
-[MIT License](LICENSE)
+Copyright © 2026 00One, Inc.
+
+Documentation, write-ups, original diagrams, and explanatory materials are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-DOCS).
+
+Source code, scripts, PoC code, and utility implementations are licensed under the [Apache License 2.0](LICENSE-CODE).
+
+The licensing structure of this repository was updated on August 26, 2026. Earlier revisions that were distributed under the MIT License remain available under the license terms applicable to those revisions.
